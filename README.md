@@ -16,11 +16,11 @@ I work on computational genomics and machine learning for cancer research, using
 
 ## Featured Projects
 
-**[Lung Adenocarcinoma Transcriptomics (GSE40419)]
+[Lung Adenocarcinoma Transcriptomics (GSE40419)]
 Differential expression of 87 lung tumour vs 77 matched normal samples (1,333 significant genes), GO/KEGG enrichment, PPI network hub-gene analysis, a patient-grouped ML classifier, and external validation on TCGA-LUAD.
 `R` `limma` `clusterProfiler` `Cytoscape` `STRING`
 
-**[Lung Tumour CT Segmentation with nnU-Net]
+[Lung Tumour CT Segmentation with nnU-Net]
 Deep-learning segmentation of primary lung tumours on CT images, completed during my ML research internship at TINILLM Labs.
 `Python` `nnU-Net` `MONAI`
 
