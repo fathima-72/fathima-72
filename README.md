@@ -29,7 +29,7 @@ Deep-learning segmentation of primary lung tumours on CT images, completed durin
 | Area | Tools |
 |---|---|
 | **Programming** | Python (pandas, NumPy, Biopython), R (tidyverse, ggplot2) |
-| **Genomics / NGS** | FastQC, GATK, SnpEff, DESeq2, limma, QIIME2, DADA2, BLAST |
+| **Genomics / NGS** | FastQC, GATK, SnpEff, DESeq2, limma, BLAST |
 | **Machine Learning** | scikit-learn style workflows, XGBoost, cross-validation, MONAI, nnU-Net |
 | **Environment** | Linux (Ubuntu, WSL), Conda, Mamba, Git |
 | **Databases** | GEO, TCGA, GenBank, PDB, KEGG, OMIM |
@@ -46,4 +46,4 @@ Medical imaging and deep learning for lung tumour segmentation.
 ## Contact
 
 📧 fathimat365@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+🔗 [LinkedIn](http://www.linkedin.com/in/tasneemfathima-bioinformatics)
