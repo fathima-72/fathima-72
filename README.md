@@ -16,7 +16,7 @@ I work on computational genomics and machine learning for cancer research, using
 
 ## Featured Projects
 
-[Lung Adenocarcinoma Transcriptomics (GSE40419)]
+[Lung Adenocarcinoma Transcriptomics (GSE40419)] Link: https://fathima-72.github.io/Gene-panel-for-classifying-Lung-adenocarcinoma-vs-adjacent-normal-tissue/
 Differential expression of 87 lung tumour vs 77 matched normal samples (1,333 significant genes), GO/KEGG enrichment, PPI network hub-gene analysis, a patient-grouped ML classifier, and external validation on TCGA-LUAD.
 `R` `limma` `clusterProfiler` `Cytoscape` `STRING`
 
